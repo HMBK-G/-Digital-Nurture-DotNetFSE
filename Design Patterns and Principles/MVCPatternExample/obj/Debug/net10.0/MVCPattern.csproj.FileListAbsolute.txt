@@ -1,0 +1,15 @@
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\bin\Debug\net10.0\MVCPattern.exe
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\bin\Debug\net10.0\MVCPattern.deps.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\bin\Debug\net10.0\MVCPattern.runtimeconfig.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\bin\Debug\net10.0\MVCPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\bin\Debug\net10.0\MVCPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\MVCPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\MVCPattern.AssemblyInfoInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\MVCPattern.AssemblyInfo.cs
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\MVCPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\MVCPattern.sourcelink.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\MVCPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\refint\MVCPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\MVCPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\MVCPattern.genruntimeconfig.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\MVCPatternExample\obj\Debug\net10.0\ref\MVCPattern.dll

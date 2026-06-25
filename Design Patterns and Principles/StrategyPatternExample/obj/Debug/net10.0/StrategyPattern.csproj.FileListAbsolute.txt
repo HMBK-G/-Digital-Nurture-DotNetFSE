@@ -1,0 +1,15 @@
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\bin\Debug\net10.0\StrategyPattern.exe
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\bin\Debug\net10.0\StrategyPattern.deps.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\bin\Debug\net10.0\StrategyPattern.runtimeconfig.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\bin\Debug\net10.0\StrategyPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\bin\Debug\net10.0\StrategyPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\StrategyPattern.sourcelink.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\StrategyPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\refint\StrategyPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\StrategyPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\StrategyPatternExample\obj\Debug\net10.0\ref\StrategyPattern.dll

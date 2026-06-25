@@ -1,0 +1,15 @@
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\bin\Debug\net10.0\ObserverPattern.exe
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\bin\Debug\net10.0\ObserverPattern.deps.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\bin\Debug\net10.0\ObserverPattern.runtimeconfig.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\bin\Debug\net10.0\ObserverPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\bin\Debug\net10.0\ObserverPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ObserverPattern.sourcelink.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ObserverPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\refint\ObserverPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ObserverPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ObserverPatternExample\obj\Debug\net10.0\ref\ObserverPattern.dll

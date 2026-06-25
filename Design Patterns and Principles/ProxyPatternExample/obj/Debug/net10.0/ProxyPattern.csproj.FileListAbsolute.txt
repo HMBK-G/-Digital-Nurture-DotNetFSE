@@ -1,0 +1,15 @@
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPattern.exe
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPattern.deps.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPattern.runtimeconfig.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPattern.sourcelink.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\refint\ProxyPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPattern.genruntimeconfig.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\ProxyPatternExample\obj\Debug\net10.0\ref\ProxyPattern.dll

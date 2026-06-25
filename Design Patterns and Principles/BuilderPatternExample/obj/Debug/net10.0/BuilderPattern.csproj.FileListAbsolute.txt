@@ -1,0 +1,15 @@
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\BuilderPattern.sourcelink.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\bin\Debug\net10.0\BuilderPattern.exe
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\bin\Debug\net10.0\BuilderPattern.deps.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\bin\Debug\net10.0\BuilderPattern.runtimeconfig.json
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\bin\Debug\net10.0\BuilderPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\bin\Debug\net10.0\BuilderPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\BuilderPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\refint\BuilderPattern.dll
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\BuilderPattern.pdb
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\Hmbk\Desktop\Digital-Nurture-DotNetFSE\Deepskilling\Engineering concepts\Design Patterns and Principles\BuilderPatternExample\obj\Debug\net10.0\ref\BuilderPattern.dll
